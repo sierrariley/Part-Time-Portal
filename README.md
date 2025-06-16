@@ -1,12 +1,12 @@
 # 📚 Part-Time Portal
 
-A centralized platform designed to streamline part-time teaching assignments for the Zekelman School of Information Technology at St. Clair College.
+A centralized platform designed to streamline part-time teaching availability management for the Zekelman School of Information Technology at St. Clair College.
 
 ---
 
 ## 💡 Overview
 
-The Part-Time Portal simplifies how administrative staff manage availability, assign courses, and communicate with part-time instructors — all in one place.
+The Part-Time Portal simplifies how administrative staff manage availability, courses, and communicate with part-time instructors — all in one place.
 
 This repository is a showcase of the platform’s features and interface.  
 **No source code is included.**
